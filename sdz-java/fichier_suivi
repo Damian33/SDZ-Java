@@ -1,4 +1,11 @@
-====== Installer les outils de d�veloppement ======
-Expliquer comment compiler en ligne de commande
+====== Chapitre SDZ : Installer les outils de développement ======
+Classe correspondante au chapitre : sdz1.java
+==== Compiler en ligne de commande une classe ====
+Définir la variable d'environnement JAVA_HOME = C:\Program Files\Java\jdk1.6.0_27
+Se placer dans le répertoire contenant la classe :
+cd C:\Users\cavailled\Documents\Workspace\java_sdz\src\java_sdz
+Lancer la commande :
+javac sdz1.java
 
-====== Les variables et les op�rateurs ======
+
+====== Les variables et les opérateurs ======
