@@ -1,5 +1,3 @@
-package lire_clavier;
-
 import java.util.Scanner;
 
 public class lire_clavier {
@@ -16,6 +14,7 @@ public class lire_clavier {
 		sc.nextLine();
 		String str = sc.nextLine();      
 		System.out.println("Vous avez saisi : " + str);
+		sc.close();
 		
 	}
 
