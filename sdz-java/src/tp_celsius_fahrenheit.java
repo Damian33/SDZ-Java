@@ -43,6 +43,7 @@ public class tp_celsius_fahrenheit {
 			
 		} while (continuer == 'O');
 		System.out.println("Au revoir !");
+		sc.close();
 	}
 
 	public static double arrondi(double A, int B) {
