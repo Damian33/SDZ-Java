@@ -31,4 +31,8 @@ Classe correspondante au chapitre : sdz-java/methodes.java
 ====== Chapitre SDZ : Votre premier classe ======
 Classes correspondantes au chapitre : sdz-java/ClasseMain.java
                                       sdz-java/Ville.java
+Voici les différents types de variables :
+- Les variables d'instance : ce sont elles qui définiront les caractéristiques de notre objet.
+- Les variables de classe : celles-ci sont communes à toutes les instances de votre classe.
+- Les variables locales : ce sont des variables que nous utiliserons pour travailler dans notre objet.
 
