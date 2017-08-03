@@ -7,9 +7,9 @@ public class ClasseMain {
 		Ville ville = new Ville();
 		// construction d'un objet de type Ville avec paramètres
 		Ville ville2 = new Ville("Marseille",123456789,"France");
-		System.out.println(ville2.nomPays);
-		ville2.nomPays = "FRANCEEEEEEEE";
-		System.out.println(ville2.nomPays);
+		System.out.println(ville.getNomPays());
+		ville2.setNomPays("FRANCEEEEEEEE");
+		System.out.println(ville2.getNomPays());
 	}
 
 }
