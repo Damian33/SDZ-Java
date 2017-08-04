@@ -36,4 +36,4 @@ Voici les différents types de variables :
 - Les variables de classe : celles-ci sont communes à toutes les instances de votre classe.
 - Les variables locales : ce sont des variables que nous utiliserons pour travailler dans notre objet.
 
-https://openclassrooms.com/courses/apprenez-a-programmer-en-java/votre-premiere-classe#/id/r-2181074
+Méthode d'instance : Méthode appelée à la création d'un objet (Constructeurs et méthodes dépendantes)
