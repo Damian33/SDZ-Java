@@ -3,7 +3,7 @@ package sdz;
 public class Ville {
 
 	// variable d'instance
-	private String nomVille;
+	protected String nomVille;
 	private String nomPays;
 	private int nbreHabitants;
 	private char categorie;

@@ -1,32 +1,32 @@
 ====== Chapitre SDZ : Installer les outils de developpement ======
-Classe correspondante au chapitre : sdz-java/sdz1.java
+Classe correspondante au chapitre : sdz-java/Sdz1.java
 ==== Compiler en ligne de commande une classe ====
 Definir la variable d'environnement JAVA_HOME = C:\Program Files\Java\jdk1.6.0_27
 Se placer dans le rÃ©pertoire contenant la classe :
-cd C:\Users\cavailled\Documents\Workspace\java_sdz\src\java_sdz
+cd C:\Users\cavailled\Documents\Workspace\java_sdz\src\sdz
 Lancer la commande :
-javac sdz1.java
+javac Sdz1.java
 
 ====== Chapitre SDZ : Les variables et les operateurs ======
-Classe correspondante au chapitre : sdz-java/variables_operateurs.java
+Classe correspondante au chapitre : sdz-java/VariablesOperateurs.java
 
 ====== Chapitre SDZ : Lire les entrées clavier ======
-Classe correspondante au chapitre : sdz-java/lire_clavier.java
+Classe correspondante au chapitre : sdz-java/LireClavier.java
 
 ====== Chapitre SDZ : Les conditions ======
-Classe correspondante au chapitre : sdz-java/conditions.java
+Classe correspondante au chapitre : sdz-java/Conditions.java
 
 ====== Chapitre SDZ : Les boucles ======
-Classe correspondante au chapitre : sdz-java/boucles.java
+Classe correspondante au chapitre : sdz-java/Boucles.java
 
 ====== Chapitre SDZ : TP conversion Celsius Fahrenheit ======
-Classe correspondante au chapitre : sdz-java/tp_celsius_fahrenheit.java
+Classe correspondante au chapitre : sdz-java/TpCelsiusFahrenheit.java
 
 ====== Chapitre SDZ : Le tableaux ======
-Classe correspondante au chapitre : sdz-java/tableaux.java
+Classe correspondante au chapitre : sdz-java/Tableaux.java
 
 ====== Chapitre SDZ : Les méthodes ======
-Classe correspondante au chapitre : sdz-java/methodes.java
+Classe correspondante au chapitre : sdz-java/Methodes.java
 
 ====== Chapitre SDZ : Votre premier classe ======
 Classes correspondantes au chapitre : sdz-java/ClasseMain.java
@@ -39,4 +39,5 @@ Voici les différents types de variables :
 Méthode d'instance : Méthode appelée à la création d'un objet (Constructeurs et méthodes dépendantes)
 
 ====== Chapitre SDZ : L'h�ritage ======
-Classes correspondantes au chapitre : sdz-java/ClasseMain.java
+Classes correspondantes au chapitre : 	sdz-java/Capitale.java
+										sdz-java/Heritage.java
