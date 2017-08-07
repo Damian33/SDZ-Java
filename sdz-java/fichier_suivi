@@ -41,3 +41,9 @@ MÃ©thode d'instance : MÃ©thode appelÃ©e Ã  la crÃ©ation d'un objet (Constructeur
 ====== Chapitre SDZ : L'héritage ======
 Classes correspondantes au chapitre : 	sdz-java/Capitale.java
 										sdz-java/Heritage.java
+private : ne peut être vu que de la classe courante
+protected : peut être vu de la classe courante et ses classes filles
+public : peut être vu de toutes les classes
+méthode polymorphe : elle peut être appelée de type d'objet dépendant (classe mère et classe fille)
+Toutes les classes héritent de la classe Object.
+https://openclassrooms.com/courses/apprenez-a-programmer-en-java/l-heritage-1#/id/r-2181203
