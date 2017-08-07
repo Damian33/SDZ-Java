@@ -1,3 +1,4 @@
+package sdz;
 public class variables_operateurs {
 
 	public static void main(String[] args) {

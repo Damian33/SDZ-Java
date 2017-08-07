@@ -1,3 +1,4 @@
+package sdz;
 import java.util.Scanner;
 
 public class tp_celsius_fahrenheit {
