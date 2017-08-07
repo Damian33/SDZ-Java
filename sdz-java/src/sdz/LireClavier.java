@@ -1,7 +1,7 @@
 package sdz;
 import java.util.Scanner;
 
-public class lire_clavier {
+public class LireClavier {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

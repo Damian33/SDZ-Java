@@ -1,7 +1,7 @@
 package sdz;
 import java.util.Scanner;
 
-public class boucles {
+public class Boucles {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package sdz;
 
-public class sdz1 {
+public class Sdz1 {
 
 	public static void main(String[] args) {
 		

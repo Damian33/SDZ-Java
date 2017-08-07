@@ -37,3 +37,6 @@ Voici les différents types de variables :
 - Les variables locales : ce sont des variables que nous utiliserons pour travailler dans notre objet.
 
 Méthode d'instance : Méthode appelée à la création d'un objet (Constructeurs et méthodes dépendantes)
+
+====== Chapitre SDZ : L'h�ritage ======
+Classes correspondantes au chapitre : sdz-java/ClasseMain.java

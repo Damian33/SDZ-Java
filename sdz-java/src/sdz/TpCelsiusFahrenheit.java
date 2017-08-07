@@ -1,7 +1,7 @@
 package sdz;
 import java.util.Scanner;
 
-public class tp_celsius_fahrenheit {
+public class TpCelsiusFahrenheit {
 
 	public static void main(String[] args) {
 		// Declaration des variables

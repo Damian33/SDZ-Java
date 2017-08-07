@@ -1,6 +1,6 @@
 package sdz;
 
-public class conditions {
+public class Conditions {
 
 	public static void main(String[] args) {
 		// On travaille de if... else if... else

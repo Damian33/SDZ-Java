@@ -1,5 +1,5 @@
 package sdz;
-public class variables_operateurs {
+public class VariablesOperateurs {
 
 	public static void main(String[] args) {
 		byte temperature = 64;	//1 octet : (2^7)-1 à 2^7

@@ -1,6 +1,6 @@
 package sdz;
 
-public class methodes {
+public class Methodes {
 
 	public static void main(String[] args) {
 		// transformation d'une chaine en majuscule ou en minuscule
