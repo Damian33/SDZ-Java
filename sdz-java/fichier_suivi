@@ -46,4 +46,5 @@ protected : peut être vu de la classe courante et ses classes filles
 public : peut être vu de toutes les classes
 méthode polymorphe : elle peut être appelée de type d'objet dépendant (classe mère et classe fille)
 Toutes les classes héritent de la classe Object.
-https://openclassrooms.com/courses/apprenez-a-programmer-en-java/l-heritage-1#/id/r-2181203
+
+https://openclassrooms.com/courses/apprenez-a-programmer-en-java/l-heritage-1#/id/r-2181241

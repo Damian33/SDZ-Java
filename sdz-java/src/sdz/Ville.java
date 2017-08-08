@@ -9,8 +9,10 @@ public class Ville {
 	private char categorie;
 
 	// Variable de classe
-	public static int nbreInstances = 0; //Variables publiques qui comptent les instances
-	private static int nbreInstancesBis = 0; // Variable privée qui comptera aussi les instances
+	public static int nbreInstances = 0; // Variables publiques qui comptent les
+											// instances
+	private static int nbreInstancesBis = 0; // Variable privée qui comptera
+												// aussi les instances
 
 	// Constructeur par défaut
 	public Ville() {
@@ -19,8 +21,8 @@ public class Ville {
 		setNomPays("Inconnu");
 		setNbreHabitants(0);
 		this.setCategorie();
-	    nbreInstances++;
-	    nbreInstancesBis++;          
+		nbreInstances++;
+		nbreInstancesBis++;
 
 	}
 
@@ -31,8 +33,8 @@ public class Ville {
 		setNomPays(pPays);
 		setNbreHabitants(pNbre);
 		this.setCategorie();
-	    nbreInstances++;
-	    nbreInstancesBis++;          
+		nbreInstances++;
+		nbreInstancesBis++;
 	}
 
 	public int getNbreHabitants() {
@@ -102,6 +104,12 @@ public class Ville {
 
 	public static void setNbreInstancesBis(int nbreInstancesBis) {
 		Ville.nbreInstancesBis = nbreInstancesBis;
+	}
+	
+	// On redéfinit la méthode toString de la classe Object (toutes classes héritent de la classe Object en Java)
+	public String toString() {
+		return "\t" + this.nomVille + " est une ville de " + this.nomPays + ", elle comporte : " + this.nbreHabitants
+				+ " => elle est donc de catégorie : " + this.categorie;
 	}
 
 }

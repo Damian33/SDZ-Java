@@ -34,5 +34,10 @@ public class Heritage {
 		for (Ville V : tableau) {
 			System.out.println(V.decrisToi() + "\n");
 		}
+		
+		// On utilise la méthode toString issu de la classe Object (redéfinit dans les classes Ville et Capitale)
+		for (Ville V : tableau) {
+			System.out.println(V.toString() + "\n");
+		}
 	}
 }
