@@ -53,3 +53,5 @@ equals : méthode permettant de comparer des objects
 hashCode / equals : peuvent être auto-généré via clic-droit sur la classe, puis "Source/Generate hashcode and equals"
 
 final (public final void maMethode() {) : définit une méthode qui ne peut pas être redéfinie
+
+A FAIRE : redéfinir l'encodage eclipse en UTF-8
