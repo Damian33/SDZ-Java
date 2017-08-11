@@ -51,3 +51,5 @@ classe object : toutes les classes héritent de cette classe
 hashCode : méthode permettant d'attribuer un identifiant à un objet, elle lui donne un code de hashage
 equals : méthode permettant de comparer des objects
 hashCode / equals : peuvent être auto-généré via clic-droit sur la classe, puis "Source/Generate hashcode and equals"
+
+final (public final void maMethode() {) : définit une méthode qui ne peut pas être redéfinie
