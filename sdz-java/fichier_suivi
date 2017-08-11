@@ -33,7 +33,7 @@ Classes correspondantes au chapitre : sdz-java/ClasseMain.java
                                       sdz-java/Ville.java
 Voici les diffÃ©rents types de variables :
 - Les variables d'instance : ce sont elles qui dÃ©finiront les caractÃ©ristiques de notre objet.
-- Les variables de classe : celles-ci sont communes Ã  toutes les instances de votre classe.
+- Les variables de classe (mot clé static) : celles-ci sont communes Ã  toutes les instances de votre classe.
 - Les variables locales : ce sont des variables que nous utiliserons pour travailler dans notre objet.
 
 MÃ©thode d'instance : MÃ©thode appelÃ©e Ã  la crÃ©ation d'un objet (Constructeurs et mÃ©thodes dÃ©pendantes)
