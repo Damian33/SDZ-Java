@@ -2,7 +2,7 @@
 Classe correspondante au chapitre : sdz-java/Sdz1.java
 ==== Compiler en ligne de commande une classe ====
 Definir la variable d'environnement JAVA_HOME = C:\Program Files\Java\jdk1.6.0_27
-Se placer dans le rÃ©pertoire contenant la classe :
+Se placer dans le rÃƒÂ©pertoire contenant la classe :
 cd C:\Users\cavailled\Documents\Workspace\java_sdz\src\sdz
 Lancer la commande :
 javac Sdz1.java
@@ -10,7 +10,7 @@ javac Sdz1.java
 ====== Chapitre SDZ : Les variables et les operateurs ======
 Classe correspondante au chapitre : sdz-java/VariablesOperateurs.java
 
-====== Chapitre SDZ : Lire les entrées clavier ======
+====== Chapitre SDZ : Lire les entrÃ©es clavier ======
 Classe correspondante au chapitre : sdz-java/LireClavier.java
 
 ====== Chapitre SDZ : Les conditions ======
@@ -25,26 +25,29 @@ Classe correspondante au chapitre : sdz-java/TpCelsiusFahrenheit.java
 ====== Chapitre SDZ : Le tableaux ======
 Classe correspondante au chapitre : sdz-java/Tableaux.java
 
-====== Chapitre SDZ : Les méthodes ======
+====== Chapitre SDZ : Les mÃ©thodes ======
 Classe correspondante au chapitre : sdz-java/Methodes.java
 
 ====== Chapitre SDZ : Votre premier classe ======
 Classes correspondantes au chapitre : sdz-java/ClasseMain.java
                                       sdz-java/Ville.java
-Voici les différents types de variables :
-- Les variables d'instance : ce sont elles qui définiront les caractéristiques de notre objet.
-- Les variables de classe : celles-ci sont communes à toutes les instances de votre classe.
+Voici les diffÃ©rents types de variables :
+- Les variables d'instance : ce sont elles qui dÃ©finiront les caractÃ©ristiques de notre objet.
+- Les variables de classe : celles-ci sont communes Ã  toutes les instances de votre classe.
 - Les variables locales : ce sont des variables que nous utiliserons pour travailler dans notre objet.
 
-Méthode d'instance : Méthode appelée à la création d'un objet (Constructeurs et méthodes dépendantes)
+MÃ©thode d'instance : MÃ©thode appelÃ©e Ã  la crÃ©ation d'un objet (Constructeurs et mÃ©thodes dÃ©pendantes)
 
-====== Chapitre SDZ : L'h�ritage ======
+====== Chapitre SDZ : L'héritage ======
 Classes correspondantes au chapitre : 	sdz-java/Capitale.java
 										sdz-java/Heritage.java
-private : ne peut �tre vu que de la classe courante
-protected : peut �tre vu de la classe courante et ses classes filles
-public : peut �tre vu de toutes les classes
-m�thode polymorphe : elle peut �tre appel�e de type d'objet d�pendant (classe m�re et classe fille)
-Toutes les classes h�ritent de la classe Object.
+private : ne peut être vu que de la classe courante
+protected : peut être vu de la classe courante et ses classes filles
+public : peut être vu de toutes les classes
 
-https://openclassrooms.com/courses/apprenez-a-programmer-en-java/l-heritage-1#/id/r-2181241
+méthode polymorphe : elle peut être appelée de type d'objet dépendant (classe mère et classe fille)
+classe object : toutes les classes héritent de cette classe
+
+hashCode : méthode permettant d'attribuer un identifiant à un objet, elle lui donne un code de hashage
+equals : méthode permettant de comparer des objects
+hashCode / equals : peuvent être auto-généré via clic-droit sur la classe, puis "Source/Generate hashcode and equals"
