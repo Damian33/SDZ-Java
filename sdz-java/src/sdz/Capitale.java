@@ -4,7 +4,7 @@ public class Capitale extends Ville {
 	private String monument;
 
 	public Capitale() {
-		super(); // appel le constructeur de la classe m�re
+		super(); // appel le constructeur de la classe mÃ¨re
 		this.nomVille = "InconnuInconnu";
 		monument = "aucun";
 	}
@@ -28,7 +28,7 @@ public class Capitale extends Ville {
 		return monument;
 	}
 
-	// D�finit le nom du monument
+	// DÃ©finit le nom du monument
 	public void setMonument(String monument) {
 		this.monument = monument;
 	}
@@ -37,4 +37,6 @@ public class Capitale extends Ville {
 		String str = super.toString() + "\n \t ==>>" + this.monument + " en est un monument";
 		return str;
 	}
+	
+	
 }
