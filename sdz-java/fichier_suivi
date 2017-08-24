@@ -54,6 +54,7 @@ hashCode / equals : peuvent être auto-généré via clic-droit sur la classe, p
 
 final (public final void maMethode() {) : définit une méthode qui ne peut pas être redéfinie
 
-====== Chapitre SDZ : Modéliser ses objets grâce à UML ======
+====== Chapitre SDZ : Le package ======
+Classes correspondantes au chapitre :
 
 A FAIRE : redéfinir l'encodage eclipse en UTF-8
