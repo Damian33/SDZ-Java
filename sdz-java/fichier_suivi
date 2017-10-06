@@ -55,6 +55,9 @@ hashCode / equals : peuvent être auto-généré via clic-droit sur la classe, p
 final (public final void maMethode() {) : définit une méthode qui ne peut pas être redéfinie
 
 ====== Chapitre SDZ : Le package ======
-Classes correspondantes au chapitre :
-
-A FAIRE : redéfinir l'encodage eclipse en UTF-8
+- Un package est un ensemble de dossiers et de sous-dossiers.
+- Le nom du package est soumis à une convention de nommage.
+- Si vous voulez utiliser un mot clé Java dans le nom de votre package, vous devez le faire suivre d'un underscore (« _ »).
+- Les classes déclarées public sont visibles depuis l'extérieur du package qui les contient.
+- Les classes n'ayant pas été déclarées public ne sont pas visibles depuis l'extérieur du package qui les contient.
+- Si une classe déclarée public dans son package a une variable d'un type ayant une portée default, cette dernière ne pourra pas être modifiée depuis l'extérieur de son package.
